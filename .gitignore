@@ -1,5 +1,5 @@
 *.sln
-*.VC.db
 *.vcxproj*
 *.VC*
 .vs
+Debug/
